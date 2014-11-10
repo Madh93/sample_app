@@ -7,6 +7,9 @@ gem 'rails', '4.1.7'
 #Bootstrap
 gem 'bootstrap-sass',       '3.2.0.0'
 
+#Encriptar contraseña
+gem 'bcrypt',               '3.1.7'
+
 # Use sqlite3 as the database for Active Record
 #gem 'sqlite3'
 # Use SCSS for stylesheets
