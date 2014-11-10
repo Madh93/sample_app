@@ -6,7 +6,21 @@ by [Michael Hartl](http://www.michaelhartl.com/).
 
 **3ª Aplicación**
 
+Capitulo 3:
+
 * Generate Controller Manually
 * Test-Driven
 * Embedded Ruby (.erb)
 * Layout Application
+
+Capitulo 4:
+
+* Ruby y Rails syntax
+
+Capitulo 5:
+
+* HTML5 layouts
+* Rails partials
+* Bootstrap and Sass
+* Routing and links rules
+* More tests
