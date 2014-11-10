@@ -24,3 +24,11 @@ Capitulo 5:
 * Bootstrap and Sass
 * Routing and links rules
 * More tests
+
+Capitulo 5:
+
+* Migrations
+* ActiveRecord validations
+* Regular expressions and Crypt
+* Indext Database
+* has_secure_password
