@@ -25,10 +25,19 @@ Capitulo 5:
 * Routing and links rules
 * More tests
 
-Capitulo 5:
+Capitulo 6:
 
 * Migrations
 * ActiveRecord validations
 * Regular expressions and Crypt
 * Indext Database
 * has_secure_password
+
+Capitulo 7:
+
+* Modo Debug
+* Desarrollo, test y produccion
+* REST urls
+* Fail and success signups
+* Flash messages
+* SSL y Unicorn
