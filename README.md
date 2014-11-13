@@ -41,3 +41,11 @@ Capitulo 7:
 * Fail and success signups
 * Flash messages
 * SSL y Unicorn
+
+Capitulo 8:
+
+* Session and Cookies
+* Flash.now
+* Login/Logout
+* Remember
+* Fixtures test
